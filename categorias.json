@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "62fd62c70289a780a20bbf61"
+  },
+  "nombre": "Bebidas",
+  "id": {
+    "$numberLong": "1660773063897"
+  }
+},{
+  "_id": {
+    "$oid": "62fd6382ac30a2425eb51022"
+  },
+  "nombre": "Plato principal",
+  "id": {
+    "$numberLong": "1660773250358"
+  }
+},{
+  "_id": {
+    "$oid": "62fd642f103018c4c6da5bd9"
+  },
+  "nombre": "Helado",
+  "id": {
+    "$numberLong": "1660773423439"
+  }
+}]

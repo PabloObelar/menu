@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "62fd6064f14806a12e356ba1"
+  },
+  "id": {
+    "$numberLong": "1660772452248"
+  },
+  "plato": "Asado",
+  "descripcion": "ASado argentino ",
+  "imagen": "https://www.clarin.com/img/2022/03/28/el-asado-se-volvio-un___mr6tDLrpg_2000x1500__1.jpg",
+  "idCat": null
+}]
