@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alta de clientes</title>
+    <style>
+      input,
+      label {
+        display: block;
+        width: 200px;
+      }
+      label {
+        margin-top: 16px;
+      }
+      input[type="submit"] {
+        margin-top: 24px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Alta de platos</h1>
+    <form method="POST">
+      <input type="text" name="plato" placeholder="Plato" required />
+
+      <input type="text" name="descrip" placeholder="Descripcion" required />
+
+      <input type="text" name="categ" placeholder="Categoria" required />
+      <input
+        type="text"
+        name="imagen"
+        placeholder="Url de la imagen"
+        required
+      />
+      <input type="submit" value="Aceptar" />
+    </form>
+    <p>{{mensaje}}</p>
+    <h3><a href="/">Volver al menu principal</a></h3>
+  </body>
+</html>

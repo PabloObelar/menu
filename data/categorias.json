@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6303fb994f985680d4697abf"
+  },
+  "nombre": "Postre",
+  "id": {
+    "$numberLong": "1661205401809"
+  }
+},{
+  "_id": {
+    "$oid": "6304000db68cd1f808d840c7"
+  },
+  "nombre": "Bebidas",
+  "id": {
+    "$numberLong": "1661206541072"
+  }
+},{
+  "_id": {
+    "$oid": "6304029eb4a0e574224256d2"
+  },
+  "nombre": "Plato principal",
+  "id": {
+    "$numberLong": "1661207198828"
+  }
+}]
